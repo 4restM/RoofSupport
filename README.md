@@ -19,3 +19,6 @@ Boot up the game and enable the mod with the game's mod manager.
 ## Authors
 
 * **MatchSG**
+
+## Credits
+* **Nommy**
