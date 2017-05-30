@@ -10,8 +10,7 @@ When using underneath a mountain, don't forget to construct a roof. This is an o
 To install this mod with Steam
 
 ```
-Go to my steam workshop repository [Here](http://steamcommunity.com/profiles/76561197971227756/myworkshopfiles/?appid=294100)
-* <a href="http://steamcommunity.com/profiles/76561197971227756/myworkshopfiles/?appid=294100">test/</a>
+Go to my steam workshop repository bit.ly/2qDFaYD
 Choose the Alpha that matches your current version and subscribe
 ```
 
