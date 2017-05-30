@@ -11,7 +11,7 @@ To install this mod with Steam
 
 ```
 Go to my steam workshop repository here: bit.ly/2qDFaYD
-Choose the Alpha that matches your current version and subscribe
+Choose the alpha that matches your current version and subscribe
 ```
 
 To install this mod manually
