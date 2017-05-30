@@ -7,8 +7,14 @@ When using underneath a mountain, don't forget to construct a roof. This is an o
 
 ## Installation
 
-To install this mod
+To install this mod with Steam
 
+```
+Go to my steam workshop repository [http://steamcommunity.com/profiles/76561197971227756/myworkshopfiles/?appid=294100](here)
+Choose the Alpha that matches your current version and subscribe
+```
+
+To install this mod manually
 ```
 Download or clone this repo and Unzip
 Open up the file and navigate to the RoofSupport A17 folder
@@ -22,3 +28,4 @@ Boot up the game and enable the mod with the game's mod manager.
 
 ## Credits
 * **Nommy**
+* **Shinzy**  
