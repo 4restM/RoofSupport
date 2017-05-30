@@ -11,6 +11,7 @@ To install this mod with Steam
 
 ```
 Go to my steam workshop repository [Here](http://steamcommunity.com/profiles/76561197971227756/myworkshopfiles/?appid=294100)
+* <a href="http://steamcommunity.com/profiles/76561197971227756/myworkshopfiles/?appid=294100">test/</a>
 Choose the Alpha that matches your current version and subscribe
 ```
 
