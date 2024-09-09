@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Buildings>
-
-	<ThingDef Name="BuildingBase" Abstract="True">
-		<category>Building</category>
-		<thingClass>Building</thingClass>
-		<soundImpactDefault>BulletImpactMetal</soundImpactDefault>
-		<selectable>true</selectable>
-		<drawerType>MapMeshAndRealTime</drawerType>
-		<terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
-		<repairEffect>Repair</repairEffect>
-	</ThingDef>
+<Defs>
 
 	<!--========================= Roof Support ============================= -->
 	<ThingDef ParentName="BuildingBase" Name="RoofSupport">
@@ -37,22 +27,18 @@
 			<li>Stony</li>
 		</stuffCategories>
 		<costStuffCount>6</costStuffCount>
+		<altitudeLayer>Building</altitudeLayer>
 		<passability>Standable</passability>
 		<fillPercent>0</fillPercent>
+		<coversFloor>false</coversFloor>
 		<tickerType>Never</tickerType>
 		<rotatable>false</rotatable>
 		<selectable>true</selectable>
-		<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+		<terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
 		<holdsRoof>true</holdsRoof>
 		<designationCategory>Structure</designationCategory>
-		<blockLight>false</blockLight>
-		<specialDisplayRadius>5.9</specialDisplayRadius>
-		<damageMultipliers>
-			<li>
-				<damageDef>Bomb</damageDef>
-				<multiplier>3</multiplier>
-			</li>
-		</damageMultipliers>
+		<blockLight>true</blockLight>
+		<specialDisplayRadius>6.9</specialDisplayRadius>
 		<leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
 	</ThingDef>
-</Buildings>
+</Defs>
