@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Roof Support -->
+
+  <RoofSupport.label>屋根の支柱</RoofSupport.label>
+  <RoofSupport.description>屋根を支えることができる構造の支柱です。移動を妨げませんし、銃撃戦で隠れる事もできません。</RoofSupport.description>
+  <Blueprint_RoofSupport.label>屋根支柱(設計)</Blueprint_RoofSupport.label>
+  <Frame_RoofSupport.label>屋根支柱(施工)</Frame_RoofSupport.label>
+  <Frame_RoofSupport.description>屋根を支えることができる構造の支柱です。移動を妨げませんし、銃撃戦で隠れる事もできません。</Frame_RoofSupport.description>
+
+</LanguageData>
